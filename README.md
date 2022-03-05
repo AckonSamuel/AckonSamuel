@@ -1,8 +1,8 @@
 ### Hi there, I am Samuel👋
 
-- 🔭 I’m currently training to become a full-stack software developer at [Microverse inc](https://www.microverse.org/)
-- 🌱 I’m current sharpening my JavaScript skills
-- 😄 Funfat: I love reading novels and self-development books at my space time. I also love to teach Math to elementary school children.
+- 🔭 I’m currently training to become a Full-Stack Software Developer at [Microverse inc](https://www.microverse.org/)
+- 🌱 I’m currently sharpening my JavaScript skills.
+- 😄 Funfact: I love reading novels and self-development books at my spare time. I also love to teach Math to elementary school children.
 - 📫 Reach me here: ackons433@gmail.com
 
 
