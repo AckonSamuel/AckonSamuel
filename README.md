@@ -1,7 +1,7 @@
 ### Hi there, I am Samuel👋
 
-- 🔭 I’m currently training to become a Full-Stack Software Developer at [Microverse inc](https://www.microverse.org/)
-- 🌱 I’m currently sharpening my JavaScript and Ruby skills.
+- 🔭 I’m currently a Full-Stack Software Developer at CDH Financial Holdings Limited
+- 🌱 I’m good at JavaScript and Ruby skills.
 - 😄 Funfact: I love reading novels and self-development books at my spare time. I also love to teach Math to elementary school children.
 - 📫 Reach me here: ackons433@gmail.com
 
