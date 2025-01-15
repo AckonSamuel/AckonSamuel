@@ -1,6 +1,6 @@
 ### Hi there, I am Samuel👋
 
-- 🔭 I’m currently a Full-Stack Software Developer at CDH Financial Holdings Limited
+- 🔭 I’m a Full-Stack Software Developer looking for exciting  opportunities
 - 🌱 I’m good at JavaScript and Ruby skills.
 - 😄 Funfact: I love reading novels and self-development books at my spare time. I also love to teach Math to elementary school children.
 - 📫 Reach me here: ackons433@gmail.com
